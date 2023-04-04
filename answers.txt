@@ -1,0 +1,44 @@
+1:
+{login: 'Andrewmitty', id: 61165178, node_id: 'MDQ6VXNlcjYxMTY1MTc4', avatar_url: 'https://avatars.githubusercontent.com/u/61165178?v=4', gravatar_id: '', …}avatar_url: "https://avatars.githubusercontent.com/u/61165178?v=4"bio: nullblog: ""company: nullcreated_at: "2020-02-17T20:40:15Z"email: nullevents_url: "https://api.github.com/users/Andrewmitty/events{/privacy}"followers: 4followers_url: "https://api.github.com/users/Andrewmitty/followers"following: 0following_url: "https://api.github.com/users/Andrewmitty/following{/other_user}"gists_url: "https://api.github.com/users/Andrewmitty/gists{/gist_id}"gravatar_id: ""hireable: nullhtml_url: "https://github.com/Andrewmitty"id: 61165178location: nulllogin: "Andrewmitty"name: nullnode_id: "MDQ6VXNlcjYxMTY1MTc4"organizations_url: "https://api.github.com/users/Andrewmitty/orgs"public_gists: 0public_repos: 7received_events_url: "https://api.github.com/users/Andrewmitty/received_events"repos_url: "https://api.github.com/users/Andrewmitty/repos"site_admin: falsestarred_url: "https://api.github.com/users/Andrewmitty/starred{/owner}{/repo}"subscriptions_url: "https://api.github.com/users/Andrewmitty/subscriptions"twitter_username: nulltype: "User"updated_at: "2023-03-08T12:53:41Z"url: "https://api.github.com/users/Andrewmitty"[[Prototype]]: Object
+Number of public git repos: 7
+Number of followers: 4
+61574190
+72048331
+125400941
+125409726
+
+
+2.1
+Number of Comments: 500
+
+2.2
+Number of Photos: 5000
+
+2.3
+name: Leanne Graham email: Sincere@april.biz
+name: Ervin Howell email: Shanna@melissa.tv
+name: Clementine Bauch email: Nathan@yesenia.net
+name: Patricia Lebsack email: Julianne.OConner@kory.org
+name: Chelsey Dietrich email: Lucio_Hettinger@annie.ca
+name: Mrs. Dennis Schulist email: Karley_Dach@jasper.info
+name: Kurtis Weissnat email: Telly.Hoeger@billy.biz
+name: Nicholas Runolfsdottir V email: Sherwood@rosamond.me
+name: Glenna Reichert email: Chaim_McDermott@dana.io
+name: Clementina DuBuque email: Rey.Padberg@karina.biz
+
+2.4
+name: Leanne Graham City: Gwenborough
+name: Ervin Howell City: Wisokyburgh
+name: Clementine Bauch City: McKenziehaven
+name: Patricia Lebsack City: South Elvis
+name: Chelsey Dietrich City: Roscoeview
+name: Mrs. Dennis Schulist City: South Christy
+name: Kurtis Weissnat City: Howemouth
+name: Nicholas Runolfsdottir V City: Aliyaview
+name: Glenna Reichert City: Bartholomebury
+name: Clementina DuBuque City: Lebsackbury
+
+2.5
+Total number of completed todos: 90
+
+2.6
