@@ -57,9 +57,9 @@
 //         });
 //     });
 
-fetch("https://jsonplaceholder.typicode.com/todos?completed=true")
-    .then(response => response.json())
-    .then(data => console.log("2.5\nTotal number of completed todos: " + data.length))
+// fetch("https://jsonplaceholder.typicode.com/todos?completed=true")
+//     .then(response => response.json())
+//     .then(data => console.log("2.5\nTotal number of completed todos: " + data.length))
 
 // fetch("https://jsonplaceholder.typicode.com/todos?completed=true")
 //     .then(response => response.json())
@@ -85,14 +85,14 @@ fetch("https://jsonplaceholder.typicode.com/todos?completed=true")
 //         })
 //     });
 
-// fetch('https://jsonplaceholder.typicode.com/albums')
-//     .then(response => response.json())
-//     .then(data => {
-//         data.forEach(album => {
-//             if (album.title == "quidem molestiae enim") {
-//                 fetch("https://jsonplaceholder.typicode.com/users?id=" + album.userId)
-//                     .then(userResponse => userResponse.json())
-//                     .then(userData => console.log("2.8\n" + userData[0].name))
-//             }
-//         })
-//     })
+fetch('https://jsonplaceholder.typicode.com/albums')
+    .then(response => response.json())
+    .then(data => {
+        data.forEach(album => {
+            if (album.title == "quidem molestiae enim") {
+                fetch("https://jsonplaceholder.typicode.com/users?id=" + album.userId)
+                    .then(userResponse => userResponse.json())
+                    .then(userData => console.log("2.8\n" + userData[0].name))
+            }
+        })
+    })
