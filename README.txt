@@ -2,6 +2,8 @@ Github Link: https://github.com/Andrewmitty/Fetch
 Names: Andrew Mitty, Mashaab Munaf, Ben Boeder, Ronnie Haynes
 Date: 04/04/2023
 
+**Answers Below**
+
 1.1:
 {login: 'Andrewmitty', id: 61165178, node_id: 'MDQ6VXNlcjYxMTY1MTc4', avatar_url: 'https://avatars.githubusercontent.com/u/61165178?v=4', gravatar_id: '', …}avatar_url: "https://avatars.githubusercontent.com/u/61165178?v=4"bio: nullblog: ""company: nullcreated_at: "2020-02-17T20:40:15Z"email: nullevents_url: "https://api.github.com/users/Andrewmitty/events{/privacy}"followers: 4followers_url: "https://api.github.com/users/Andrewmitty/followers"following: 0following_url: "https://api.github.com/users/Andrewmitty/following{/other_user}"gists_url: "https://api.github.com/users/Andrewmitty/gists{/gist_id}"gravatar_id: ""hireable: nullhtml_url: "https://github.com/Andrewmitty"id: 61165178location: nulllogin: "Andrewmitty"name: nullnode_id: "MDQ6VXNlcjYxMTY1MTc4"organizations_url: "https://api.github.com/users/Andrewmitty/orgs"public_gists: 0public_repos: 7received_events_url: "https://api.github.com/users/Andrewmitty/received_events"repos_url: "https://api.github.com/users/Andrewmitty/repos"site_admin: falsestarred_url: "https://api.github.com/users/Andrewmitty/starred{/owner}{/repo}"subscriptions_url: "https://api.github.com/users/Andrewmitty/subscriptions"twitter_username: nulltype: "User"updated_at: "2023-03-08T12:53:41Z"url: "https://api.github.com/users/Andrewmitty"[[Prototype]]: Object
 Number of public git repos: 7
